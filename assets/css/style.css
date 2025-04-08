@@ -1,0 +1,161 @@
+h1{
+    background-color: black;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 30px;
+}
+
+body{
+    color: rgb(255, 255, 255);
+    background-color:#000000;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+
+
+
+/* .carouselExampleCaptions{
+    padding: 100px;
+    margin: 100px;
+    alt: 100px; ;
+    height: 100px;
+} */
+
+#carouselExampleCaptions {
+    max-width: 600px; /* Ajuste o tamanho máximo conforme necessário */
+    margin: 0 auto; 
+  }
+
+  #carouselExampleCaptions img {
+    max-width: 100%;
+    height: auto;
+  }
+
+
+ 
+  .parallax {
+
+    margin-top: 1.5rem;
+    
+    background-image: url("../img/space.jpg");
+  
+    min-height: 300px;
+  
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+ #card{
+  background-color:black ;
+  color: white;
+  
+
+ }
+
+ form{
+  background-color: black;
+  border-radius: 30px; 
+  padding: 30px;
+ }
+
+ .header{
+  margin-top: 1.5rem;
+    
+  background-image: url("../img/space.jpg");
+
+  min-height: 300px;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  
+ }
+ 
+
+ select{
+  padding-top: 10px;
+ }
+
+ #cont{
+  text-align: center;
+  padding: 60px;
+ }
+
+ iframe{
+  border-radius: 30px;
+  border-color: black;
+ }
+ 
+
+ .rounded-image 
+{
+    box-shadow: 0 0 50px rgb(0, 0, 0);
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    float: right;
+}
+.rounded-image2
+{
+    box-shadow: 0 0 50px rgb(0, 0, 0);
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    float: left;
+
+}
+
+p
+{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    color: rgb(167, 162, 162);
+}
+
+
+
+.lista{
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 20px;
+  color: rgb(167, 162, 162);
+}
+
+.form-control{
+  background-color: rgb(167, 162, 162);
+}
+.form-select{
+  background-color:rgb(167, 162, 162);
+  margin-top: 8px;
+}
+
+#cont{
+  color: white;
+}
+
+a{
+  color: white;
+}
+
+#img{
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.lead{
+  color: rgb(130, 126, 126);
+}
+
+
+
+
+
